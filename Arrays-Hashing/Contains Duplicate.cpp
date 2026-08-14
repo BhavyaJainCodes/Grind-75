@@ -17,3 +17,12 @@ public:
         return false;
     }
 };
+// one more solution using unordered_maps
+        unordered_map<int,int> values;
+        for (int i=0;i<n;i++){
+            int needed = target - nums[i];
+            if (values.count(needed)){
+                return {values[needed], i};
+            }
+            values[nums[i]] = i;
+        }
