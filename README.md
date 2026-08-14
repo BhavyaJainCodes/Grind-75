@@ -1,2 +1,16 @@
-# blind-75
-My C++ solutions and notes for the Blind 75 DSA problems, following the NeetCode roadmap.
+# Blind 75 — C++
+
+My solutions and notes while completing the Blind 75 problem set using C++.
+
+## Progress
+
+[████░░░░░░] 1/75
+
+## Topics
+
+- [ ] Arrays & Hashing
+- [ ] Two Pointers
+- [ ] Sliding Window
+- [ ] Stack
+- [ ] Binary Search
+- [ ] Linked List
