@@ -4,7 +4,7 @@ My solutions and notes while completing the Blind 75 problem set using C++.
 
 ## Progress
 
-[█░░░░░░] 1/75
+[█░░░░░░] 3/75
 
 ## Topics
 
